@@ -5,5 +5,8 @@ Inspired by the previous Geographical Random Forest (GRF) studeis:
 2) Kai Sun, Ryan Zhenqi Zhou, Jiyeon Kim, and Yingjie Hu. 2024. PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters. Transactions in GIS.
 
 We furthur integrate the XGBoost and LightGBM into the geographically weighted modeling, i.e., replace the local models with XGBoost and LightGBM. Our experiments show that spatial XGBoost/LightGBM shows comparible prediction results but much faster training speed.
-
 ![Model training structure](https://github.com/user-attachments/assets/288bd1fb-e946-4da2-9c41-19f9528ac54c)
+
+In the ipynb, you can easily find how to use the codes:
+Training the models, test them on test dataset, and conduct model interpretation with SHAP。
+Please feel free to contact the authors if you have any questions or issues.
